@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="CrProject"
+  id="myeclipse.1525925218047"
+  context-root="/CrProject"
+  j2ee-spec="6.0"
+  archive="CrProject.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
